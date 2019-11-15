@@ -1,0 +1,21 @@
+{
+	"AlteredText": "",
+	"Entities": {
+		"$instance": {
+			"number": [
+				{
+					"startIndex": 16,
+					"endIndex": 17,
+					"text": "8",
+					"type": "builtin.number"
+				}
+			]
+		},
+		"number": [
+			8
+		]
+	},
+	"Intents": "Count",
+	"Properties": "Count",
+	"Text": "¿Cuales son los 8 tweets mas divertidos?"
+}

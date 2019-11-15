@@ -1,0 +1,18 @@
+{
+    "name": "CodeFestLUIS - Local",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "b0988383-e0e2-43b8-ab47-84c68cea02c8",
+            "appPassword": "u=B.S26mSAq:eJFQgEiX1tq2Kw]=U@az",
+            "endpoint": "http://localhost:50000/api/messages",
+            "id": "787bdbc0-072c-11ea-951f-31f5b4fb8782",
+            "name": "http://localhost:50000/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Dev\\CodeFest\\CodeFest2019\\QnA\\CodeFestLUIS - Local.bot"
+}

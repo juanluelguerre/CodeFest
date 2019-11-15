@@ -1,0 +1,162 @@
+{
+  "luis_schema_version": "4.0.0",
+  "versionId": "0.1",
+  "name": "CodeFestLuis",
+  "desc": "",
+  "culture": "es-es",
+  "tokenizerVersion": "1.0.0",
+  "intents": [
+    {
+      "name": "Greetings"
+    },
+    {
+      "name": "None"
+    },
+    {
+      "name": "Ponencias"
+    },
+    {
+      "name": "TweetFunniest"
+    },
+    {
+      "name": "Twitter"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "¿cuál es el tweet más alegre?",
+      "intent": "TweetFunniest",
+      "entities": []
+    },
+    {
+      "text": "¿cual es el twitter más alegre?",
+      "intent": "TweetFunniest",
+      "entities": []
+    },
+    {
+      "text": "¿cuál es el twitter más positivo?",
+      "intent": "TweetFunniest",
+      "entities": []
+    },
+    {
+      "text": "¿cuantas charlas hay?",
+      "intent": "Ponencias",
+      "entities": []
+    },
+    {
+      "text": "¿cuantas charlas son¿",
+      "intent": "Ponencias",
+      "entities": []
+    },
+    {
+      "text": "¿cuantas ponencias hay?",
+      "intent": "Ponencias",
+      "entities": []
+    },
+    {
+      "text": "¿cuántas ponencias són?",
+      "intent": "Ponencias",
+      "entities": []
+    },
+    {
+      "text": "¿cuántos tweets hay?",
+      "intent": "Twitter",
+      "entities": []
+    },
+    {
+      "text": "¿cuántos tweets van ya?",
+      "intent": "Twitter",
+      "entities": []
+    },
+    {
+      "text": "¿cuántos tweets van?",
+      "intent": "Twitter",
+      "entities": []
+    },
+    {
+      "text": "¿cuantos tweets?",
+      "intent": "Twitter",
+      "entities": []
+    },
+    {
+      "text": "¿cuántos twitters van?",
+      "intent": "Twitter",
+      "entities": []
+    },
+    {
+      "text": "¿el tweet más alegre?",
+      "intent": "TweetFunniest",
+      "entities": []
+    },
+    {
+      "text": "¿el tweet mas positivo?",
+      "intent": "TweetFunniest",
+      "entities": []
+    },
+    {
+      "text": "buen evento",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "buenos días a todos",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "cuanta gente !",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "gran día",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "hola",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "número de ponencias",
+      "intent": "Ponencias",
+      "entities": []
+    },
+    {
+      "text": "número de twitters",
+      "intent": "Twitter",
+      "entities": []
+    },
+    {
+      "text": "que tal?",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "tiene pinta de ser un gran dia",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "un año más",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "ya estamos todos de nuevo",
+      "intent": "Greetings",
+      "entities": []
+    }
+  ],
+  "settings": []
+}

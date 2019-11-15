@@ -1,0 +1,35 @@
+- Twitter:
+   1) Crear Azure DB:
+ 	User: juanlu
+	Pwd: CodeFest2019!
+   2) Crear Cognitive Service
+   3) Crear Logic App
+
+- API NetCore + Swagger.
+   
+- ChatBot
+   1) QnA:        
+ 	Mostrar portal qnamaker: https://www.qnamaker.ai/
+	Pruebas con Curl: curl -X POST https://codefestqna.azurewebsites.net/qnamaker/knowledgebases/b09f16df-cf8b-4b6d-80f7-a538a9377856/generateAnswer -H "Authorization: EndpointKey 2767f8ca-652d-405d-b79f-fb1e9fae1620" -H "Content-type: application/json" -d "{'question':'<Your question>'}"
+	
+	Mostrar portal Azure:			
+	Configuración
+	Canales: 	
+	Chatear:
+         * Hola, que tal
+	 * cuanta gente
+	 * cuanto es el CodeFest?
+	 * Me cuentas un chiste?
+	   
+   2) LUIS: https://www.luis.ai/ / https://preview.luis.ai
+     ¿ Cuantas ponencias hay ?
+     ¿Cuantos tweets hay ya?
+     ¿Cual es el tweet mas triste? / ¿Cual es el peor tweet?
+     ¿Cual es el tweet mas divertido?
+     ¿cúales son los 10 tweets más divertidos?
+   
+   3) Crear AzureLUIS: https://portal.azure.com/#create/Microsoft.CognitiveServicesLUISAllInOne
+
+
+
+Telegram:  https://telegram.me/botfather 
