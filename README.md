@@ -1,5 +1,5 @@
 # CodeFest
-Everis CodeFest
+CodeFest
 
 # CodeFest 2019
 - [DevCamp Samples](CodeFest2019/README.md)
